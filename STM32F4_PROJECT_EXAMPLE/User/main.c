@@ -4,7 +4,10 @@ static __IO uint32_t uwTimingDelay;
 
 int main ()
 {
-	while (1);
+	while(1)
+	{      
+    ;       
+	}
 }
 
 
